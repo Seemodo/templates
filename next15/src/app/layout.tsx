@@ -15,7 +15,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
                 <Script
                     type="module"
                     strategy="afterInteractive"
-                    src="https://cdn.jsdelivr.net/gh/seemodo/seemodo@main/apps/web/client/public/seemodo-preload-script.js"
+                    src="https://start.seemodo.ai/seemodo-preload-script.js"
                     data-oid="zxbuq9a"
                 />
             </body>
